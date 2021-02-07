@@ -9,9 +9,10 @@ int main(void)
     /* Print the numbers 1 throuth 20 */
 
     for ( count = 1; count <= 20; count++ )
-    {
+    
         printf("%d\n", count);
-    }
+    
 
-    return 0
+    return 0;
+
 }

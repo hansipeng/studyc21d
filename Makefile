@@ -7,7 +7,7 @@ LIBS =
 INC	= 
 
 # Source files
-SRCS = main.c
+SRCS = forstate.c
 
 # Make everything
 all:	$(RELEASE) $(DEBUG)
